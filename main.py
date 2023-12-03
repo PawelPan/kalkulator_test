@@ -4,7 +4,6 @@ def Add():
     print("result: ", inp1 + inp2)
 
 flag = True
-
 while flag:
     opt = int(input("choose option\n1 addition\n"))
     if opt == 1:
